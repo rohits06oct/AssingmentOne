@@ -1,0 +1,15 @@
+<suite name="AssignmentOne" verbose="1" parallel="tests" preserve-order="false" thread-count="10"
+       annotations="JDK" group-by-instances="true" configfailurepolicy="continue">
+
+    <!-- Run all the files  -->
+    <test name="All tests">
+        <classes>
+            <class name="TestOne" />
+            <class name="TestSecond" />
+            <class name="TestThird" />
+            <class name="TestFourth" />
+            <class name="TestFifth" />
+        </classes>
+    </test>
+
+</suite>

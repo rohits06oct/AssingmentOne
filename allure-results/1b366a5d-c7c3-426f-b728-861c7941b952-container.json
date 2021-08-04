@@ -1,0 +1,1 @@
+{"uuid":"1b366a5d-c7c3-426f-b728-861c7941b952","name":"setup.quit","children":["ec5d97ee-9740-431b-aa25-3fe2db3e943d"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1628096510154,"stop":1628096510240}],"links":[],"start":1628096510154,"stop":1628096510240}
